@@ -1,0 +1,166 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-31 07:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.1\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/sia_admin.php:87
+msgid "  показывать дату"
+msgstr ""
+
+#: admin/sia_admin.php:166
+msgid " ваш сервер "
+msgstr ""
+
+#: admin/sia_admin.php:49
+msgid ""
+" миниатюр.<br/>Вы можете использовать ваш сервер как источник миниатюр для "
+"описаний"
+msgstr ""
+
+#: admin/sia_admin.php:105
+msgid " показывать информацию"
+msgstr ""
+
+#: admin/sia_admin.php:136
+msgid " показывать миниатюры"
+msgstr ""
+
+#: admin/sia_admin.php:206
+msgid " удаление "
+msgstr ""
+
+#: admin/sia_admin.php:219
+msgid ""
+"<br /><em>Если у Вас возникли вопросы или пожелания, вы можете направить их "
+"на siamajor@ukr.net</em><br/><strong>Береги Вас Господь!</strong>"
+msgstr ""
+
+#: admin/sia_admin.php:155
+msgid "<div class=\"zip_yes\">архив img.zip загружен</div>"
+msgstr ""
+
+#: admin/sia_admin.php:210
+msgid ""
+"<h4 style='text-align:center;'>Спасибо за проявленный интерес к плагину "
+"Saints!</h4>\n"
+"    Дорогие братия и сестры!<br />Надеюсь, что мой плагин окажется для Вас "
+"полезным!<br />Плагин Saints  предоставляет 3 шорткода:\n"
+"    <ul>\n"
+"        <li><strong>[sia-calendar]</strong> - для вывода виджета календаря;"
+"</li>\n"
+"        <li><strong>[sia-shortinfo]</strong> - для вывода краткой информации "
+"дня;</li>\n"
+"        <li><strong>[sia-saints]</strong> - для вывода жизнеописания "
+"Святых</li>\n"
+"    </ul>\n"
+"    Если виджет календаря не установлен, при загрузке страницы с шорткодом "
+"описания жития будет отображаться информация текущего дня."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/Siamajor"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/saints"
+msgstr ""
+
+#. Name of the plugin
+msgid "Saints"
+msgstr ""
+
+#. Author of the plugin
+msgid "SIA"
+msgstr ""
+
+#: admin/sia_admin.php:46
+msgid ""
+"ВНИМАНИЕ! Для показа миниатюр икон в описании жития Святых архив с "
+"миниатюрами<br/> необходимо загрузить в формате zip с именем img (img.zip) в "
+"папку<br/><strong>/wp-content/uploads/saints-cache/</strong> на вашем "
+"сервере.<br />Это займет около 83мб (более 2700 картинок) на вашем диске.<br "
+"/>ЛИБО подгружать картинки с внешнего источника - сайта azbуka.ru.<br/>Архив "
+"img.zip можно скачать <a href='https://xn--b1aplbci.xn--"
+"j1amh/vebmasteru/plugin-saints/' target='_blank'>отсюда</a>"
+msgstr ""
+
+#: admin/sia_admin.php:167
+msgid ""
+"Вы можете загрузить уже готовый архив (img.zip) с миниатюрами в папку на "
+"Вашем сервере<br/>/wp-content/uploads/saints-cache/<br/>и использовать ее "
+"как источник миниатюр для ускорения загрузки страницы.<br/>Если Вы выберете "
+"azbyka.ru, то картинки будут подгружаться с этого сервера."
+msgstr ""
+
+#: admin/sia_admin.php:207
+msgid ""
+"Вы можете удалить папку с миниатюрами, отметив эту опцию.<br />ВНИМАНИЕ! "
+"<strong>Это действие нельзя отменить!</strong>"
+msgstr ""
+
+#: admin/sia_admin.php:27
+msgid "Дата"
+msgstr ""
+
+#: admin/sia_admin.php:62
+msgid "Если оставить пустым не будет выводится"
+msgstr ""
+
+#: admin/sia_admin.php:137
+msgid ""
+"Если отмечено, в текст будут вставлены<br/>изображения икон Святых, если есть"
+msgstr ""
+
+#: admin/sia_admin.php:88
+msgid "Если отмечено, после заголовка будет показана дата"
+msgstr ""
+
+#: admin/sia_admin.php:106
+msgid ""
+"Если отмечено, после заголовка будет показана краткая<br/>информация на "
+"выбранный день. Также можно<br/>краткую информацию получить с помощью "
+"шорткода [shortinfo] "
+msgstr ""
+
+#: admin/sia_admin.php:26
+msgid "Заголовок блока с описаниями"
+msgstr ""
+
+#: admin/sia_admin.php:48
+msgid "Загружено на ваш сервер "
+msgstr ""
+
+#: admin/sia_admin.php:30
+msgid "Источник миниатюр"
+msgstr ""
+
+#: admin/sia_admin.php:28
+msgid "Краткая информация"
+msgstr ""
+
+#: admin/sia_admin.php:29
+msgid "Миниатюры икон"
+msgstr ""
+
+#: saints.php:306
+msgid "Не удалось создать каталог saints-cache"
+msgstr ""
+
+#. Description of the plugin
+msgid "Плагин выводит жизнеописания Святых на любую дату."
+msgstr ""
+
+#: admin/sia_admin.php:31
+msgid "Удаление миниатюр"
+msgstr ""

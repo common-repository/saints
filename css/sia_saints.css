@@ -1,0 +1,149 @@
+@font-face {
+  font-family: "Monomakh Unicode";
+  src: url(../fonts/MonomakhUnicode.eot);
+  src: url(../fonts/MonomakhUnicode.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/MonomakhUnicode.woff2) format("woff2"),
+    url(../fonts/MonomakhUnicode.woff) format("woff"),
+    url(../fonts/MonomakhUnicode.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.icons img {
+  width: 75px;
+  float: left;
+  overflow: hidden;
+  padding: 3px;
+  height: 100px !important;
+}
+.modal-link {
+  text-decoration: none !important;
+  font-family: "Roboto Condensed" !important;
+  color: inherit !important;
+}
+.title_description h3 {
+  font-size: 30px;
+  font-family: "Monomakh Unicode" !important;
+  text-decoration: none;
+  padding-top: 20px;
+  color: brown;
+}
+.titleOpt {
+  font-size: 32px;
+  font-family: "Monomakh Unicode" !important;
+  text-decoration: none;
+  padding-top: 20px;
+}
+
+.title_kondak,
+.title_tropar,
+.title_molitva {
+  font-size: 105%;
+  font-weight: 600;
+}
+.imageicon {
+  max-width: 260px;
+  height: auto;
+  float: left;
+  padding: 15px 25px 5px 0;
+  border-radius: 5px;
+}
+@media screen and (max-width: 390px) {
+  .imageicon {
+    width: 70%;
+    height: auto;
+    margin: auto;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    float: none;
+  }
+}
+.img-st {
+  width: 150px;
+  float: right;
+  padding: 40px 0 5px 10px;
+}
+
+.descr_kondak p:first-child {
+  font-family: "Monomakh Unicode";
+}
+.descr_tropar p:first-child {
+  font-family: "Monomakh Unicode";
+}
+.descr_molitva p:first-child {
+  font-family: "Monomakh Unicode";
+}
+
+.description p:first-child:first-letter {
+  font-size: 200%;
+  color: red;
+  font-weight: 600;
+  font-family: "Monomakh Unicode";
+}
+
+.descr_kondak p:first-child:first-letter {
+  font-size: 140%;
+  color: red;
+  font-weight: 600;
+  font-family: "Monomakh Unicode";
+}
+.descr_tropar p:first-child:first-letter {
+  font-size: 140%;
+  color: red;
+  font-weight: 600;
+  font-family: "Monomakh Unicode";
+}
+.descr_molitva p:first-child:first-letter {
+  font-size: 140%;
+  color: red;
+  font-weight: 600;
+  font-family: "Monomakh Unicode";
+}
+
+.block-saints::before {
+  background: url("decor.png") no-repeat right center;
+  background-size: 135px 16px;
+  display: inline-block;
+  width: 55%;
+  height: 16px;
+  content: "";
+}
+@media screen and (max-width: 390px) {
+  .block-saints::before {
+    background: url("decor.png") no-repeat right center;
+    background-size: 170px 16px;
+    display: inline-block;
+    width: 62%;
+    height: 16px;
+    content: "";
+  }
+}
+.block-saints {
+  display: inline-block;
+  padding-top: 40px;
+}
+
+.presentations-s div:nth-child(1) {
+  display: none;
+}
+
+.presentations div:nth-child(1) {
+    font-size: 165%;
+  font-family: "Monomakh Unicode";
+  color: inherit;
+  font-weight: 600;
+}
+
+#saints .presentations div:nth-child(1) {
+    /*font-size: 165%;
+  font-family: "Monomakh Unicode";
+  color: inherit;
+  font-weight: 600;*/
+    display: none;
+}
+
+.dateShow {
+  font-size: 30px;
+  padding-left: 30px;
+  font-family: 'Monomakh Unicode';
+  color: inherit;
+}
